@@ -9,7 +9,7 @@ width: 100%;
 box-sizing: border-box;
 }
 
-.site-Header {
+.site-header {
   border-bottom: 1px solid #ccc;
   background-color: beige;
   padding: .5em 1em;
@@ -18,7 +18,7 @@ box-sizing: border-box;
   opacity: 10;
 }
 
-.site-Identity, img {
+.site-identity, img {
   margin: .6em 0;
   display: inline-block;
   width:42px;
@@ -30,15 +30,17 @@ outline: dashed;
 }
 
 .container {
-outline: dashed blue;
+border: 3px solid gray;
 width: 100%;
 box-sizing: border-box;
-background-color: aquamarine;
+background-color: rgb(14, 20, 18);
 padding: 45px 15px;
 }
 
-.footerTitle { /*changed to footerTitle*/
+.footertitle {
 text-align: center;
 outline: dashed yellowgreen;
 box-sizing: border-box;
+margin: 0;
+padding: 3px;
 }

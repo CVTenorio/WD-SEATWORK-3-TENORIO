@@ -4,7 +4,7 @@ body {
   font-family: Georgia, 'Times New Roman', serif
 }
 
-.Wallpaper, img {
+.wallpaper, img {
   background-image: url('/assets/img/landingPageWallpaper.png'); 
   background-size: cover;
   background-position: center;

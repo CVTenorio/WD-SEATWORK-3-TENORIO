@@ -9,7 +9,7 @@ section {
   box-sizing: border-box;
 }
 
-.site-Header {
+.site-header {
     border-bottom: 1px solid #ccc;
     background-color: beige;
     padding: .5em 1em;
@@ -18,7 +18,7 @@ section {
     opacity: 10;
   }
 
- .site-Identity, img {
+ .site-identity, img {
     margin: .6em 0;
     display: inline-block;
     width:42px;
@@ -37,7 +37,7 @@ section {
   padding: 45px 15px;
 }
 
-.headerTitle {
+.headertitle {
   text-align: center;
   outline: dashed yellowgreen;
   box-sizing: border-box;
