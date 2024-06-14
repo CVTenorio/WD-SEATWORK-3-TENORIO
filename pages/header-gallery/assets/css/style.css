@@ -30,10 +30,10 @@ section {
 }
 
 .container {
-  outline: dashed blue;
+  border: 3px solid gray;
   width: 100%;
   box-sizing: border-box;
-  background-color: aquamarine;
+  background-color: rgb(14, 20, 18);
   padding: 45px 15px;
 }
 
@@ -41,4 +41,6 @@ section {
   text-align: center;
   outline: dashed yellowgreen;
   box-sizing: border-box;
+  margin: 0;
+  padding: 3px;
 }
