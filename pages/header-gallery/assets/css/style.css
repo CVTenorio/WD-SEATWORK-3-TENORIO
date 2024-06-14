@@ -18,7 +18,7 @@ section {
     opacity: 10;
   }
 
- .site-identity, img {
+.site-identity, img {
     margin: .6em 0;
     display: inline-block;
     width:42px;
@@ -34,7 +34,9 @@ section {
   width: 100%;
   box-sizing: border-box;
   background-color: rgb(14, 20, 18);
-  padding: 45px 15px;
+  padding: 15px 15px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .headertitle {
@@ -46,9 +48,47 @@ section {
 }
 
 /*Design 1 (STATIC)*/
-.container-logo-left{
-
+.container-logo, img{
+  margin: .6em 0;
+  display: inline-block;
+  width:65px;
+  height:65px;
+  object-position: center;
 }
+
+button, .gla-button {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: #309a06; /*309a06*/
+  padding: 15px 30px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  transition: background-color 0.3s;
+  margin: 5px;
+}
+
+button, .china-button {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: #8d0000; /*8d0000*/
+  padding: 15px 30px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  transition: background-color 0.3s;
+  margin: 5px;
+}
+
+button, .usa-button {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: #030d7b; /*030d7b*/
+  padding: 15px 30px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  transition: background-color 0.3s;
+  margin: 5px;
+}
+
 /*Design 2 (STATIC)*/
 
 /*Design 3 (STATIC)*/
