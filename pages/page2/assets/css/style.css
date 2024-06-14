@@ -4,7 +4,12 @@ body {
 
 }
 
-.site-Header { 
+section {
+width: 100%;
+box-sizing: border-box;
+}
+
+.site-Header {
   border-bottom: 1px solid #ccc;
   background-color: beige;
   padding: .5em 1em;
@@ -21,13 +26,20 @@ body {
   height:42px;
 }
 
-.site-Navigation ul, 
-.site-Navigation li {
-  margin: 0; 
-  padding: 0;
+.title {
+outline: dashed;
 }
 
-.site-Navigation li {
-  display: inline-block;
-  margin: 1.4em 1em 1em 1em;
+.container {
+outline: dashed blue;
+width: 100%;
+box-sizing: border-box;
+background-color: aquamarine;
+padding: 45px 15px;
+}
+
+.footerTitle { /*changed to footerTitle*/
+text-align: center;
+outline: dashed yellowgreen;
+box-sizing: border-box;
 }
