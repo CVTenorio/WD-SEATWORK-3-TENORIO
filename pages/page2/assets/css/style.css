@@ -1,31 +1,33 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
 
 }
 
 .site-Header { 
-    border-bottom: 1px solid #ccc;
-    background-color: beige;
-    padding: .5em 1em;
-    display: flex;
-    justify-content: space-between;
-    opacity: 10;
-  }
+  border-bottom: 1px solid #ccc;
+  background-color: beige;
+  padding: .5em 1em;
+  display: flex;
+  justify-content: space-between;
+  opacity: 10;
+}
 
- .site-Identity h1 {
-    font-size: 1.5em;
-    margin: .6em 0;
-    display: inline-block;
-  }
+.site-Identity, img {
+  font-size: 1.5em;
+  margin: .6em 0;
+  display: inline-block;
+  width:42px;
+  height:42px;
+}
 
 .site-Navigation ul, 
 .site-Navigation li {
-    margin: 0; 
-    padding: 0;
-  }
+  margin: 0; 
+  padding: 0;
+}
 
 .site-Navigation li {
-    display: inline-block;
-    margin: 1.4em 1em 1em 1em;
-  }
+  display: inline-block;
+  margin: 1.4em 1em 1em 1em;
+}
