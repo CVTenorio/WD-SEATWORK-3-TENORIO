@@ -90,7 +90,15 @@ button, .usa-button {
 }
 
 /*Design 2 (STATIC)*/
-
+.design1-container {
+  border: 3px solid gray;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: rgb(14, 20, 18);
+  padding: 15px 15px;
+  display: flex;
+  justify-content: space-between;
+}
 /*Design 3 (STATIC)*/
 
 /*Design 4 (STATIC)*/
