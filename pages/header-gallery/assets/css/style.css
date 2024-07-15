@@ -59,7 +59,7 @@ section {
   object-position: center;
 }
 
-button, .gla-button {
+button, .breakfast {
   text-decoration: none;
   color: rgb(255, 255, 255);
   background-color: #309a06; /*309a06*/
@@ -70,7 +70,7 @@ button, .gla-button {
   margin: 5px;
 }
 
-button, .china-button {
+button, .lunch {
   text-decoration: none;
   color: rgb(255, 255, 255);
   background-color: #8d0000; /*8d0000*/
@@ -81,7 +81,7 @@ button, .china-button {
   margin: 5px;
 }
 
-button, .usa-button {
+button, .dinner {
   text-decoration: none;
   color: rgb(255, 255, 255);
   background-color: #030d7b; /*030d7b*/
