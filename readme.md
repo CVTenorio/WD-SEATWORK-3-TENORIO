@@ -6,21 +6,21 @@
 <div align="center">
   <a href="https://github.com/CVTenorio/WD-SEATWORK-3-TENORIO">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/MR EGGY.png" alt="Nyebe" width="200" height="315">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Header and Footer</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  This is a seatwork for learning header & footer animations. (Optional)
+  This is a website that showcases different header and footer designs
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=CVTenorio/WD-SEATWORK-3-TENORIO)
 
 ---
 
